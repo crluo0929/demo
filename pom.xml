@@ -30,7 +30,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		<!-- jpa相關套件，包含@Repository、@Query、@EnableJpaRepositories、@Aspect等 -->
+		<!-- jpa相關套件，包含@Repository、@Query、@EnableJpaRepositories等 -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
